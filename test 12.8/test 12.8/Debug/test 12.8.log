@@ -1,0 +1,4 @@
+﻿  test 12.9.cpp
+C:\Users\竹洋\source\repos\test 12.8\test 12.8\test 12.9.cpp(132,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\竹洋\source\repos\test 12.8\test 12.8\test 12.9.cpp(152,27): warning C4018: “<”: 有符号/无符号不匹配
+  test 12.8.vcxproj -> C:\Users\竹洋\source\repos\test 12.8\Debug\test 12.8.exe
